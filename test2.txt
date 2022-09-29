@@ -1,1 +1,6 @@
-hello github
+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
+
+git remote set-url origin  https://<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>@github.com/<zbgxiaohuo>/<typra>.git
+
+git remote set-url origin  https://<your_token>@github.com/<USERNAME>/<REPO>.git
+
